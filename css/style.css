@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Lora:ital@1&family=Roboto:wght@100&display=swap');
+@import url("composants/container.css");
+@import url("composants/banner.css");
+@import url("composants/container2.css");
+@import url("composants/banner2.css");
+@import url("composants/btn-blue.css");
+@import url("composants/btn-red.css");
+@import url("composants/card-menu.css");
+@import url("composants/card-grid.css");
+@import url("composants/btn-yellow.css");
+@import url("composants/card-menu2.css");
+@import url("composants/card-grid2.css");
+@import url("composants/banner3.css");
+@import url("composants/btn-pink.css");
+@import url("composants/container3.css");
+a :hover {
+	color: darkgrey;
+}
+
+body {
+	background: linear-gradient(0deg, black 0%, darkgrey 75%, grey);
+	margin: 0;
+}
+
+h2 {
+	text-align: center;
+	color: whitesmoke;
+}
+
+h3 {
+	text-align: center;
+	color: black;
+}
+
